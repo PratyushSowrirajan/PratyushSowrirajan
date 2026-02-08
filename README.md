@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+welcome..
+
+nothing fancy here — just things i’m learning, building, and improving over time.  
+and yes, *Friends* is the greatest sitcom ever made.
+
 <!--
 **PratyushSowrirajan/PratyushSowrirajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
